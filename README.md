@@ -1,11 +1,11 @@
-##Bike-Sharing-Prediction-with-NeuralNet
+## Bike-Sharing-Prediction-with-NeuralNet
 
 Developed as coursework for Udacity "Deep Learning Fundamentals" Nanodegree. In this project, I built a neural network to predict daily bike rental ridership.
 
-##Further Explanation
+## Further Explanation
 The Neural network was built from "scratch", using only NumPy to assist. The goal of this project is to understand what happens behind the neural network before diving deeper into other tools like TensorFlow.
 
-##Results
+## Results
 The project meets the specifications, which are:
 
 All the code in the notebook runs in Python 3 without failing, and all unit tests pass.
